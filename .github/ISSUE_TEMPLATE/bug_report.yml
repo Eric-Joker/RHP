@@ -1,0 +1,71 @@
+name: 问题报告 | Bug Report
+title: "[Bug] "
+description: 报告问题 | Report a bug
+labels: ["bug?"]
+body:
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: 若不遵守必选项，你的议题会在没有任何回复的情况下关闭。If you do not comply with the required options, your issue will be closed without any response.
+      options:
+        - label: 我已经搜索过 Issue Tracker，且并未查询到提交相似问题的 Issue。I've searched the Issue Tracker and can't find an Issue that submitted the same issue. 
+          required: true
+        - label: 我确认较新的 CI 存在此问题。I confirm that this problem still exists in the newer CI.
+          required: true
+        - label: 略读[提问的艺术](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)。Skimming [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+
+  - type: textarea
+    id: bug
+    attributes:
+      label: 细述 | Description
+      description: |
+        请清晰的说明此问题。
+        Please enter a clear description of the bug.
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 截图 Screenshots
+    validations:
+      required: true
+
+  - type: input
+    id: rhp_ver
+    attributes:
+      label: RHP Version
+      description: |
+        提供提交哈希。
+        Provide the commit hash.
+      placeholder:
+    validations:
+      required: true
+
+  - type: input
+    id: mc_ver
+    attributes:
+      label: Minecraft Version
+      description: |
+        尽可能提供四位完整版本号。
+        Provide the complete four-digit version number if possible.
+      placeholder: "e.g. 1.21.51.1"
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: control_method
+    attributes:
+      label: 操控方式 Control method
+      options:
+        - 触控 Touch
+        - 非触控 Not touch (键盘、手柄 gamepad, keyboard)
+    validations:
+      required: true
+  
+  - type: textarea
+    id: context
+    attributes:
+      label: 附加信息 Additional Context
