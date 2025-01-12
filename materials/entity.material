@@ -1,0 +1,1 @@
+{"materials": {"version": "1.0.0", "health_display:entity_nocull": {"+defines": ["ALPHA_TEST", "USE_OVERLAY"], "depthFunc": "Always"}}}

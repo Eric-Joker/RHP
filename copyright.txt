@@ -1,0 +1,15 @@
+﻿如果你觉得这个资源包仍可改良，可以修改供个人使用，但是在未经过作者允许的情况下，禁止将修改的材质包发到网上！
+If you think this resource pack is not very good, you can modify the pack for personal use, but it is forbidden to send the modified resource pack to the Internet without the author's permission!
+如你所见本包体内JsonUI经过了混淆，如果你在社区具有一些名望，可以联系我们获取源代码。
+As you can see JsonUI is obfuscated in this pack, if you have some notoriety in the community you can contact us for the source code.
+你不可以私自将这个材质包及其贴图私自整合到其他材质发布或用于盈利。
+You cannot privately integrate this resource pack and its textures into other materials for publishing or for profit.
+这个材质包的作者为RHP制作团队
+Author:RHP Texture Team
+未经允许严禁转载！
+Reprinting without permission is strictly prohibited!
+作者联系方式如下，若需要合作或发现盗版，欢迎联系
+The author's contact information is as follows, if you need cooperation or find pirated, please contact!
+QQ 40733909
+Bilibili @垂泪雨燕Patria
+Xboxlive@Quantumaster233

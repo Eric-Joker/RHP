@@ -1,0 +1,4 @@
+完整版默认开启透明ui，建筑版默认关闭透明UI
+自定义文件路径：
+完整版 subpacks/o/ui/_global_variables.json
+建筑版 subpacks/a/ui/_global_variables.json

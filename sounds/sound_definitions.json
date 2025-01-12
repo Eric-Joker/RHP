@@ -1,0 +1,124 @@
+{
+  "tile.piston.in": {
+    "category": "block",
+    "sounds": [{
+      "name": "sounds/tile/piston/in",
+      "volume": 0.25}
+    ]
+  },
+  "tile.piston.out": {
+    "category": "block",
+    "sounds": [{
+      "name": "sounds/tile/piston/out",
+      "volume": 0.25}
+    ]
+  },
+  "random.click": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/random/click",
+        "volume": 0.15,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "minecart.base": {
+    "category": "neutral",
+    "sounds": [{
+      "name": "sounds/minecart/base",
+      "volume": 0.5}
+    ]
+  },
+  "minecart.inside": {
+    "category": "neutral",
+    "sounds": [{
+      "name": "sounds/minecart/inside",
+      "volume": 0.5}
+    ]
+  },
+  "block.composter.fill": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/block/composter/fill1",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/block/composter/fill2",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/block/composter/fill3",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/block/composter/fill4",
+        "volume": 0.65,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "block.composter.fill_success": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/block/composter/fill_success1",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/block/composter/fill_success2",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/block/composter/fill_success3",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/block/composter/fill_success4",
+        "volume": 0.65
+      }
+    ]
+  },
+  "block.composter.empty": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/block/composter/empty1",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/block/composter/empty2",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/block/composter/empty3",
+        "volume": 0.5
+      }
+    ]
+  },
+  "block.composter.ready": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/block/composter/ready1",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/block/composter/ready2",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/block/composter/ready3",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/block/composter/ready4",
+        "volume": 0.5
+      }
+    ]
+  }
+}

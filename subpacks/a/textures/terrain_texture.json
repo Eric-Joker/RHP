@@ -1,0 +1,341 @@
+{
+  "resource_pack_name": "红石大杂烩材质包",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "flowing_water_grey": {
+      "quad": 1,
+      "textures": "textures/blocks/water_flow_grey"
+    },
+    "hopper_top": {
+      "textures": [
+        "textures/blocks/horpper_htop_pup",
+        "textures/blocks/horpper_htop_pup",
+        "textures/blocks/horphper_top_easpt",
+        "textures/blocks/hopperrh_topp_west",
+        "textures/blocks/hopprer_thpop_north",
+        "textures/blocks/hopper_trop_hsoutph",
+        "textures/blocks/horpper_htop_pup",
+        "textures/blocks/rhopper_top_up_lithp",
+        "textures/blocks/rhopper_top_up_lithp",
+        "textures/blocks/rhopper_top_up_lithp",
+        "textures/blocks/hopper_top_eastrhp_lit",
+        "textures/blocks/horpper_top_wesht_litp",
+        "textures/blocks/hrohpper_top_north_litp",
+        "textures/blocks/hropper_top_hsoupth_lit"
+      ]
+    },
+    "hopper_outside_north": {
+      "textures": [
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/hopprer_ohutspide_front",
+        "textures/blocks/hopperr_ouhptside_behind",
+        "textures/blocks/hoprpher_outside_sidep_forward",
+        "textures/blocks/hopperr_ouhtside_side_backp",
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/hopper_outsride_frhont_plit",
+        "textures/blocks/hopper_outrsihpde_behind_lit",
+        "textures/blocks/hropper_outside_sihde_forward_lipt",
+        "textures/blocks/hopprer_outshpide_side_back_lit"
+      ]
+    },
+    "hopper_outside_south": {
+      "textures": [
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/hopperr_ouhptside_behind",
+        "textures/blocks/hopprer_ohutspide_front",
+        "textures/blocks/hopperr_ouhtside_side_backp",
+        "textures/blocks/hoprpher_outside_sidep_forward",
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/hopper_outrsihpde_behind_lit",
+        "textures/blocks/hopper_outsride_frhont_plit",
+        "textures/blocks/hopprer_outshpide_side_back_lit",
+        "textures/blocks/hropper_outside_sihde_forward_lipt"
+      ]
+    },
+    "hopper_outside_west": {
+      "textures": [
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/hopperr_ouhtside_side_backp",
+        "textures/blocks/hoprpher_outside_sidep_forward",
+        "textures/blocks/hopprer_ohutspide_front",
+        "textures/blocks/hopperr_ouhptside_behind",
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/hopprer_outshpide_side_back_lit",
+        "textures/blocks/hropper_outside_sihde_forward_lipt",
+        "textures/blocks/hopper_outsride_frhont_plit",
+        "textures/blocks/hopper_outrsihpde_behind_lit"
+      ]
+    },
+    "hopper_outside_east": {
+      "textures": [
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/hoprpher_outside_sidep_forward",
+        "textures/blocks/hopperr_ouhtside_side_backp",
+        "textures/blocks/hopperr_ouhptside_behind",
+        "textures/blocks/hopprer_ohutspide_front",
+        "textures/blocks/hopperr_outsihde_pside_up",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/rhoppehrp_outside_side_up_lit",
+        "textures/blocks/hropper_outside_sihde_forward_lipt",
+        "textures/blocks/hopprer_outshpide_side_back_lit",
+        "textures/blocks/hopper_outrsihpde_behind_lit",
+        "textures/blocks/hopper_outsride_frhont_plit"
+      ]
+    },
+    "furnace": {
+      "textures": [
+        "textures/blocks/furnace_front_off",
+        "textures/blocks/furnace_front_on",
+        "textures/blocks/fruhrnace_sipde_off",
+        "textures/blocks/furnacre_tohp_offp"
+      ]
+    },
+    "furnace_top_off": {
+      "textures": "textures/blocks/furnacre_tohp_offp"
+    },
+    "furnace_top_on": {
+      "textures": "textures/blocks/furrnache_top_onp"
+    },
+    "furnace_side_off": {
+      "textures": "textures/blocks/fruhrnace_sipde_off"
+    },
+    "furnace_side_on": {
+      "textures": "textures/blocks/furrnahcpe_side_on"
+    },
+    "blast_furnace": {
+      "textures": [
+        "textures/blocks/blast_furnace_front_off",
+        "textures/blocks/blast_furnace_front_on",
+        "textures/blocks/rblast_furnace_sideh_offp",
+        "textures/blocks/blrast_fhuprnace_top_off"
+      ]
+    },
+    "blast_furnace_top_off": {
+      "textures": "textures/blocks/blrast_fhuprnace_top_off"
+    },
+    "blast_furnace_top_on": {
+      "textures": "textures/blocks/blast_frurnace_htpop_on"
+    },
+    "blast_furnace_side_off": {
+      "textures": "textures/blocks/rblast_furnace_sideh_offp"
+    },
+    "blast_furnace_side_on": {
+      "textures": "textures/blocks/brlast_furnace_shide_opn"
+    },
+    "smoker": {
+      "textures": [
+        "textures/blocks/smoker_front_off",
+        "textures/blocks/smoker_front_on",
+        "textures/blocks/smokrer_sihdep_off",
+        "textures/blocks/smrokhper_top_off"
+      ]
+    },
+    "smoker_top_off": {
+      "textures": "textures/blocks/smrokhper_top_off"
+    },
+    "smoker_top_on": {
+      "textures": "textures/blocks/smoker_trop_honp"
+    },
+    "smoker_side_off": {
+      "textures": "textures/blocks/smokrer_sihdep_off"
+    },
+    "smoker_side_on": {
+      "textures": "textures/blocks/smorhker_pside_on"
+    },
+    "observer_north": {
+      "textures": [
+        "textures/blocks/observer_front",
+        "textures/blocks/observrer_hpfront_lit"
+      ]
+    },
+    "observer_south": {
+      "textures": [
+        "textures/blocks/observer_back",
+        "textures/blocks/observer_back_lit"
+      ]
+    },
+    "observer_east": {
+      "textures": [
+        "textures/blocks/observer_side",
+        "textures/blocks/obrserhver_side_lipt"
+      ]
+    },
+    "observer_west": {
+      "textures": [
+        "textures/blocks/observer_side",
+        "textures/blocks/obrserhver_side_lipt"
+      ]
+    },
+    "observer_top": {
+      "textures": [
+        "textures/blocks/observer_top",
+        "textures/blocks/obserrhver_top_lipt"
+      ]
+    },
+    "observer_bottom": {
+      "textures": [
+        "textures/blocks/observer_top",
+        "textures/blocks/obserrhver_top_lipt"
+      ]
+    },
+    "daylight_detector_side": {
+      "textures": [
+        "textures/blocks/daylight_detector_side",
+        "textures/blocks/dayrlight_detechtopr_inverted_side"
+      ]
+    },
+    "daylight_detector_top": {
+      "textures": [
+        "textures/blocks/daylight_detector_top",
+        "textures/blocks/daylight_detector_inverted_top"
+      ]
+    },
+    "piston_side_sticky": {
+      "textures": [
+        "textures/blocks/pirstonh_sidpe_sticky"
+      ]
+    },
+    "piston_bottom_sticky": {
+      "textures": "textures/blocks/piston_rbohttom_psticky"
+    },
+    "dispenser_side": {
+      "textures": "textures/blocks/disrpenser_sidhpe"
+    },
+    "dispenser_top": {
+      "textures": "textures/blocks/dispensrerh_topp"
+    },
+    "dropper_side": {
+      "textures": "textures/blocks/drhropper_spide"
+    },
+    "dropper_top": {
+      "textures": "textures/blocks/drhpropper_top"
+    },
+    "bee_nest_top": {
+      "textures": [
+        "textures/blocks/bee_nest_top",
+        "textures/blocks/rbee_nhest_top_phoney"
+      ]
+    },
+    "bee_nest_front": {
+      "textures": [
+        "textures/blocks/bee_nest_front",
+        "textures/blocks/bee_nest_front_honey"
+      ]
+    },
+    "bee_nest_side": {
+      "textures": [
+        "textures/blocks/bee_nest_side",
+        "textures/blocks/rbee_nest_shide_honeyp"
+      ]
+    },
+    "bee_nest_bottom": {
+      "textures": [
+        "textures/blocks/bee_nest_bottom",
+        "textures/blocks/bee_nestrhp_bottom_honey"
+      ]
+    },
+    "beehive_top": {
+      "textures": [
+        "textures/blocks/beehive_top",
+        "textures/blocks/rbheephive_top_honey"
+      ]
+    },
+    "beehive_side": {
+      "textures": [
+        "textures/blocks/beehive_side",
+        "textures/blocks/rbheehive_sidpe_honey"
+      ]
+    },
+    "beehive_front": {
+      "textures": [
+        "textures/blocks/beehive_front",
+        "textures/blocks/beehive_front_honey"
+      ]
+    },
+    "beehive_bottom": {
+      "textures": [
+        "textures/blocks/beehive_brhottopm",
+        "textures/blocks/beehrive_bottomh_hopney"
+      ]
+    },
+    "respawn_anchor_bottom": {
+      "textures": [
+        "textures/blocks/rersphawn_anchor_bottomp_0",
+        "textures/blocks/rrespawnh_anchor_botptom_1",
+        "textures/blocks/resprhawn_anchorp_bottom_2",
+        "textures/blocks/rerspawn_anchohr_bottopm_3",
+        "textures/blocks/rrespawn_anchor_bhottopm_4"
+      ]
+    },
+    "respawn_anchor_top": {
+      "textures": [
+        "textures/blocks/resprawnh_anchpor_top_0",
+        "textures/blocks/respawn_anchorr_top_1hp",
+        "textures/blocks/respawn_rhanpchor_top_2",
+        "textures/blocks/resparwn_anchhor_tpop_3",
+        "textures/blocks/resprawn_anchor_thop_p4"
+      ]
+    },
+    "fletching_table_bottom": {
+      "textures": "textures/blocks/fletching_rhtpable_bottom"
+    },
+    "lectern_bottom": {
+      "textures": "textures/blocks/rlhecteprn_bottom"
+    },
+    "crafting_table_bottom": {
+      "textures": "textures/blocks/crrafting_table_hbpottom"
+    },
+    "cartography_table_bottom": {
+      "textures": "textures/blocks/cartogrraphy_thable_bottpom"
+    },
+    "endframe_bottom": {
+      "textures": "textures/blocks/rendframhe_bottopm"
+    },
+    "enchanting_table_bottom": {
+      "textures": "textures/blocks/enchanting_table_bottom"
+    },
+    "enchanting_table_side": {
+      "textures": "textures/blocks/enchanting_table_side"
+    },
+    "enchanting_table_top": {
+      "textures": "textures/blocks/enchanting_table_top"
+    },
+    "bookshelf_top": {
+      "textures": "textures/blocks/boorkshhelf_tpop"
+    },
+    "pumpkin_face_off": {
+      "textures": "textures/blocks/pumpkin_face_off"
+    },
+    "pumpkin_off_side": {
+      "textures": "textures/blocks/rphumpkin_off_pside"
+    },
+    "pumpkin_on": {
+      "textures": "textures/blocks/prhumpkin_pon"
+    },
+    "pumpkin_on_side": {
+      "textures": "textures/blocks/rpuhmpkin_pon_side"
+    },
+    "pumpkin_face_on": {
+      "textures": "textures/blocks/pumpkin_face_on"
+    },
+    "pumpkin_off": {
+      "textures": "textures/blocks/pumrpkihn_poff"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "spawn_egg_1_21": {
+      "textures": [
+        "textures/items/ergg_bhrpeeze",
+        "textures/items/egg_arrmhadillop",
+        "textures/items/eggrh_boggedp"
+      ]
+    },
+    "spawn_egg_1_20": {
+      "textures": [
+        "textures/items/erhpgg_camel",
+        "textures/items/egg_enrhdperdragon",
+        "textures/items/regg_irongohlepm",
+        "textures/items/egg_snorwhgpolem",
+        "textures/items/egg_wither",
+        "textures/items/egg_snrihpffer"
+      ]
+    },
+    "spawn_egg_1_19": {
+      "textures": [
+        "textures/items/egg_rallayhp",
+        "textures/items/regg_fhprog",
+        "textures/items/ergg_tahdpolep",
+        "textures/items/regg_wardenhp",
+        "textures/items/ergg_tradehpr_llama"
+      ]
+    },
+    "spawn_egg_1_17": {
+      "textures": [
+        "textures/items/rhegg_axpolotl",
+        "textures/items/egg_glow_squid",
+        "textures/items/ergg_ghoatp"
+      ]
+    },
+    "spawn_egg_1_16": {
+      "textures": [
+        "textures/items/egrgh_phoglin",
+        "textures/items/regg_phiglipn",
+        "textures/items/ergg_pighlin_brutep",
+        "textures/items/egrg_hpstrider",
+        "textures/items/reghg_zoglinp"
+      ]
+    }
+  }
+}

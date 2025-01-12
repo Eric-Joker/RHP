@@ -1,0 +1,1 @@
+{"materials": {"version": "1.0.0", "particles_alpha:particles_base": {"+defines": ["ALPHA_TEST", "ENABLE_FOG"], "+states": ["DisableAlphaWrite"], "depthFunc": "Always"}}}

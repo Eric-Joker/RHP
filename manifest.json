@@ -1,0 +1,94 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "由RHP制作团队制作，感谢下载，游戏愉快！\n可自己修改，但请勿外传，侵权必究",
+    "name": "§c红石§6大§e杂§a烩§bv§93§5.§d1§rCI95e9aae",
+    "uuid": "47dcabca-7995-4022-ae65-34db7124d9b7",
+    "version": [
+      1736,
+      6437,
+      8073
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "由RHP制作团队制作，感谢下载，游戏愉快！\n可自己修改，但请勿外传，侵权必究",
+      "type": "resources",
+      "uuid": "82368e1c-e2b3-4eb2-ae4f-7e9f1e86639e",
+      "version": [
+        526,
+        409,
+        38
+      ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "a",
+      "name": "当前模式:§l 建筑版 §r（切换后建议重启游戏）",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "o",
+      "name": "当前模式:§l 完整版 §r（切换后建议重启游戏）",
+      "memory_tier": 1
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "量子纠缠storm",
+      "Eric_Joker",
+      "玳黛"
+    ],
+    "license": "Read copyright.txt"
+  },
+  "settings": [
+    {
+      "type": "label",
+      "text": "§cps：§f本材质修改内容较多，请结合需求调整资源包的优先级。"
+    },
+    {
+      "type": "label",
+      "text": "————————————————————————"
+    },
+    {
+      "type": "label",
+      "text": "格式化代码参照："
+    },
+    {
+      "type": "label",
+      "text": "§0 0§1 1§2 2§3 3§4 4§5 5§6 6§7 7§8 8§9 9§a a§b b§c c§d d§e e§f f§g g§h h§i i§j j§m m§n n§p p§q q§s s§t t§u u§r§l l§r§o o§r k§r§k 11451§r r"
+    },
+    {
+      "type": "input",
+      "text": "你可以在下列文本框中记录内容(比如坐标)，其会被长期保留(无论重启游戏还是世界)",
+      "name": "input1",
+      "default": "§"
+    },
+    {
+      "type": "input",
+      "text": "",
+      "name": "input2"
+    },
+    {
+      "type": "input",
+      "text": "",
+      "name": "input3"
+    },
+    {
+      "type": "input",
+      "text": "",
+      "name": "input4"
+    },
+    {
+      "type": "input",
+      "text": "",
+      "name": "input5"
+    }
+  ]
+}

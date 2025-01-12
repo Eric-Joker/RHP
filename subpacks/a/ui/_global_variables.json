@@ -1,0 +1,17 @@
+{
+  "$ui_alpha": 1.0,
+  "$ui_control_alpha": 1.0,
+  "$control_color": [],
+  "$enable_durable_display": true,
+  "$enable_sidebar": true,
+  "$default_world_settings_desc": false,
+  "$default_not_downloaded_pack": false,
+  "$visible_rhp_panel": true,
+  "$default_recovery_compass": false,
+  "$default_spawnpoint_compass": false,
+  "$default_compass": false,
+  "$default_hide_hud_button": false,
+  "$default_sidebar": true,
+  "$default_title": true,
+  "$default_durable_display": true
+}
