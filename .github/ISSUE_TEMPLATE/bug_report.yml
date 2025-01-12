@@ -8,13 +8,15 @@ body:
     id: checklist
     attributes:
       label: Checklist
-      description: 若不遵守必选项，你的议题会在没有任何回复的情况下关闭。If you do not comply with the required options, your issue will be closed without any response.
+      description: |
+        若不遵守必选项，你的议题会在没有任何回复的情况下关闭。
+        If you do not comply with the required options, your issue will be closed without any response.
       options:
         - label: 我已经搜索过 Issue Tracker，且并未查询到提交相似问题的 Issue。I've searched the Issue Tracker and can't find an Issue that submitted the same issue. 
           required: true
         - label: 我确认较新的 CI 存在此问题。I confirm that this problem still exists in the newer CI.
           required: true
-        - label: 略读[提问的艺术](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)。Skimming [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+        - label: 略读[提问的艺术](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)。Skimming [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html).
 
   - type: textarea
     id: bug
@@ -29,14 +31,14 @@ body:
   - type: textarea
     id: screenshot
     attributes:
-      label: 截图 Screenshots
+      label: 截图 | Screenshots
     validations:
       required: true
 
   - type: input
     id: rhp_ver
     attributes:
-      label: RHP Version
+      label: 红石大杂烩版本 | RHP Version
       description: |
         提供提交哈希。
         Provide the commit hash.
@@ -47,7 +49,7 @@ body:
   - type: input
     id: mc_ver
     attributes:
-      label: Minecraft Version
+      label: 游戏版本 | Minecraft Version
       description: |
         尽可能提供四位完整版本号。
         Provide the complete four-digit version number if possible.
@@ -58,7 +60,7 @@ body:
   - type: dropdown
     id: control_method
     attributes:
-      label: 操控方式 Control method
+      label: 操控方式 | Control method
       options:
         - 触控 Touch
         - 非触控 Not touch (键盘、手柄 gamepad, keyboard)
@@ -68,4 +70,4 @@ body:
   - type: textarea
     id: context
     attributes:
-      label: 附加信息 Additional Context
+      label: 附加信息 | Additional Context
