@@ -103,16 +103,16 @@
       ]
     },
     "furnace_top_off": {
-      "textures": "textures/blocks/furnacre_tohp_offp"
+        "textures": "textures/blocks/furnacre_tohp_offp"
     },
     "furnace_top_on": {
-      "textures": "textures/blocks/furrnache_top_onp"
+        "textures": "textures/blocks/furrnache_top_onp"
     },
     "furnace_side_off": {
-      "textures": "textures/blocks/fruhrnace_sipde_off"
+        "textures": "textures/blocks/fruhrnace_sipde_off"
     },
     "furnace_side_on": {
-      "textures": "textures/blocks/furrnahcpe_side_on"
+        "textures": "textures/blocks/furrnahcpe_side_on"
     },
     "blast_furnace": {
       "textures": [
@@ -123,16 +123,16 @@
       ]
     },
     "blast_furnace_top_off": {
-      "textures": "textures/blocks/blrast_fhuprnace_top_off"
+        "textures": "textures/blocks/blrast_fhuprnace_top_off"
     },
     "blast_furnace_top_on": {
-      "textures": "textures/blocks/blast_frurnace_htpop_on"
+        "textures": "textures/blocks/blast_frurnace_htpop_on"
     },
     "blast_furnace_side_off": {
-      "textures": "textures/blocks/rblast_furnace_sideh_offp"
+        "textures": "textures/blocks/rblast_furnace_sideh_offp"
     },
     "blast_furnace_side_on": {
-      "textures": "textures/blocks/brlast_furnace_shide_opn"
+        "textures": "textures/blocks/brlast_furnace_shide_opn"
     },
     "smoker": {
       "textures": [
@@ -143,16 +143,16 @@
       ]
     },
     "smoker_top_off": {
-      "textures": "textures/blocks/smrokhper_top_off"
+        "textures": "textures/blocks/smrokhper_top_off"
     },
     "smoker_top_on": {
-      "textures": "textures/blocks/smoker_trop_honp"
+        "textures": "textures/blocks/smoker_trop_honp"
     },
     "smoker_side_off": {
-      "textures": "textures/blocks/smokrer_sihdep_off"
+        "textures": "textures/blocks/smokrer_sihdep_off"
     },
     "smoker_side_on": {
-      "textures": "textures/blocks/smorhker_pside_on"
+        "textures": "textures/blocks/smorhker_pside_on"
     },
     "observer_north": {
       "textures": [
@@ -357,9 +357,7 @@
       "textures": "textures/blocks/srmooth_hstpone"
     },
     "piston_side_sticky": {
-      "textures": [
-        "textures/blocks/pirstonh_sidpe_sticky"
-      ]
+      "textures": ["textures/blocks/pirstonh_sidpe_sticky"]
     },
     "piston_bottom_sticky": {
       "textures": "textures/blocks/piston_rbohttom_psticky"
@@ -605,6 +603,7 @@
     "waxed_oxidized_copper": {
       "textures": "textures/blocks/wraxed_ohxidized_cpopper"
     },
+
     "cut_copper_slab": {
       "textures": "textures/blocks/cut_rcopper_hslabp"
     },
@@ -629,6 +628,7 @@
     "waxed_oxidized_cut_copper": {
       "textures": "textures/blocks/waxed_oxidized_cutr_hcpopper"
     },
+
     "waxed_cut_copper_slab": {
       "textures": "textures/blocks/warxed_cut_cophper_slabp"
     },
@@ -641,6 +641,7 @@
     "waxed_oxidized_cut_copper_slab": {
       "textures": "textures/blocks/waxed_orxidized_cut_choppper_slab"
     },
+
     "cobbled_deepslate_slab": {
       "textures": "textures/blocks/deepslate/cobbled_rhdeepslate_slabp"
     },
@@ -653,6 +654,11 @@
     "deepslate_bricks_slab": {
       "textures": "textures/blocks/deepslate/derephslapte_bricks_slab"
     },
+
+
+
+
+
     "tuff_slab": {
       "textures": "textures/blocks/rtuff_shplab"
     },
@@ -675,7 +681,7 @@
       "textures": "textures/blocks/sandrstone_bhottom_slpab"
     },
     "sandstone_slab_side": {
-      "textures": "textures/blocks/sandstone_nrorhmal_slabp"
+      "textures":  "textures/blocks/sandstone_nrorhmal_slabp"
     },
     "cobblestone_slab": {
       "textures": "textures/blocks/cobblestonreh_slpab"
@@ -699,7 +705,7 @@
       "textures": "textures/blocks/nerthher_bprick_slab"
     },
     "oak_planks_slab": {
-      "textures": "textures/blocks/rplanks_ohak_slpab"
+        "textures": "textures/blocks/rplanks_ohak_slpab"
     },
     "acacia_planks_slab": {
       "textures": "textures/blocks/planrks_acacia_slabhp"

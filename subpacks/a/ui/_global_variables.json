@@ -1,17 +1,23 @@
 {
-  "$ui_alpha": 1.0,
-  "$ui_control_alpha": 1.0,
+  //rhp  
+  "$ui_alpha": 1.0,   //漏网之鱼与界面整体不透明度，为1.0时关闭透明UI,需要大于$ui_control_alpha
+  "$ui_control_alpha": 1.0,  //大部分控件不透明度=（$ui_control_alpha÷$ui_alpha），为1.0时关闭透明UI，需要小于$ui_alpha
   "$control_color": [],
-  "$enable_durable_display": true,
-  "$enable_sidebar": true,
-  "$default_world_settings_desc": false,
-  "$default_not_downloaded_pack": false,
-  "$visible_rhp_panel": true,
-  "$default_recovery_compass": false,
-  "$default_spawnpoint_compass": false,
-  "$default_compass": false,
-  "$default_hide_hud_button": false,
-  "$default_sidebar": true,
-  "$default_title": true,
-  "$default_durable_display": true
+
+  "$enable_durable_display": true, //启用(true)或忽略(false)耐久显示（在低端机型可以提高性能）
+  "$enable_sidebar": true, //启用(true)或忽略(false)计分板控件控制功能（若服务器中计分板不显示或类似情况可将此项改为false）本功能测试中
+  "$default_world_settings_desc": false, //默认显示(true)或不显示(false)世界选项的介绍
+  "$default_not_downloaded_pack": false, //默认显示(true)或不显示(false)未下载的附加包
+
+  //以下内容仅在触控端生效
+  "$visible_rhp_panel": true, //显示(true)或不显示(false)控件控制面板，若为false以下功能均无效
+  "$default_recovery_compass": false, //默认显示(true)或不显示(false)hud上的回溯指针
+  "$default_spawnpoint_compass": false, //默认显示(true)或不显示(false)hud上的重生点指南针
+  "$default_compass": false, //默认显示(true)或不显示(false)hud上的指南针
+  "$default_hide_hud_button": false, //默认显示(true)或不显示(false)快捷隐藏hud按钮
+  "$default_sidebar": true, //默认显示(true)或不显示(false)计分板，在$enable_sidebar为false时无效
+  "$default_title": true, //默认显示(true)或不显示(false)title
+  "$default_durable_display": true //默认显示(true)或不显示(false)耐久显示，在$enable_durable_display为false时无效
+  //未来更多的UI功能均可在此处调整
 }
+

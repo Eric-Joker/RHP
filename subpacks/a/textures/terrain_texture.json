@@ -107,16 +107,16 @@
       ]
     },
     "furnace_top_off": {
-      "textures": "textures/blocks/furnacre_tohp_offp"
+        "textures": "textures/blocks/furnacre_tohp_offp"
     },
     "furnace_top_on": {
-      "textures": "textures/blocks/furrnache_top_onp"
+        "textures": "textures/blocks/furrnache_top_onp"
     },
     "furnace_side_off": {
-      "textures": "textures/blocks/fruhrnace_sipde_off"
+        "textures": "textures/blocks/fruhrnace_sipde_off"
     },
     "furnace_side_on": {
-      "textures": "textures/blocks/furrnahcpe_side_on"
+        "textures": "textures/blocks/furrnahcpe_side_on"
     },
     "blast_furnace": {
       "textures": [
@@ -127,16 +127,16 @@
       ]
     },
     "blast_furnace_top_off": {
-      "textures": "textures/blocks/blrast_fhuprnace_top_off"
+        "textures": "textures/blocks/blrast_fhuprnace_top_off"
     },
     "blast_furnace_top_on": {
-      "textures": "textures/blocks/blast_frurnace_htpop_on"
+        "textures": "textures/blocks/blast_frurnace_htpop_on"
     },
     "blast_furnace_side_off": {
-      "textures": "textures/blocks/rblast_furnace_sideh_offp"
+        "textures": "textures/blocks/rblast_furnace_sideh_offp"
     },
     "blast_furnace_side_on": {
-      "textures": "textures/blocks/brlast_furnace_shide_opn"
+        "textures": "textures/blocks/brlast_furnace_shide_opn"
     },
     "smoker": {
       "textures": [
@@ -147,16 +147,16 @@
       ]
     },
     "smoker_top_off": {
-      "textures": "textures/blocks/smrokhper_top_off"
+        "textures": "textures/blocks/smrokhper_top_off"
     },
     "smoker_top_on": {
-      "textures": "textures/blocks/smoker_trop_honp"
+        "textures": "textures/blocks/smoker_trop_honp"
     },
     "smoker_side_off": {
-      "textures": "textures/blocks/smokrer_sihdep_off"
+        "textures": "textures/blocks/smokrer_sihdep_off"
     },
     "smoker_side_on": {
-      "textures": "textures/blocks/smorhker_pside_on"
+        "textures": "textures/blocks/smorhker_pside_on"
     },
     "observer_north": {
       "textures": [
@@ -207,9 +207,7 @@
       ]
     },
     "piston_side_sticky": {
-      "textures": [
-        "textures/blocks/pirstonh_sidpe_sticky"
-      ]
+      "textures": ["textures/blocks/pirstonh_sidpe_sticky"]
     },
     "piston_bottom_sticky": {
       "textures": "textures/blocks/piston_rbohttom_psticky"
