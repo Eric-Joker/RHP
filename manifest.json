@@ -2,12 +2,12 @@
   "format_version": 2,
   "header": {
     "description": "由RHP制作团队制作，感谢下载，游戏愉快！\n可自己修改，但请勿外传，侵权必究",
-    "name": "§c红石§6大§e杂§a烩§bv§93§5.§d1§rCIe52a16a",
+    "name": "§c红石§6大§e杂§a烩§bv§93§5.§d1§rCI5816b3b",
     "uuid": "47dcabca-7995-4022-ae65-34db7124d9b7",
     "version": [
-      1739,
-      2855,
-      6154
+      1743,
+      1461,
+      1979
     ],
     "min_engine_version": [
       1,
@@ -19,11 +19,11 @@
     {
       "description": "由RHP制作团队制作，感谢下载，游戏愉快！\n可自己修改，但请勿外传，侵权必究",
       "type": "resources",
-      "uuid": "9d7b2431-8216-4f36-8a65-8a80b1409df8",
+      "uuid": "d443813a-99df-4c7b-9ad7-51fee823ca2c",
       "version": [
-        6917801,
-        4,
-        5
+        78,
+        8,
+        51
       ]
     }
   ],
