@@ -21,7 +21,7 @@
         "ticks_per_frame": 5
     },
     {
-        "flipbook_texture": "textures/blocks/respawn_anchorr_top_1hp",
+        "flipbook_texture": "textures/blocks/respawn_anchor_top_1",
         "atlas_tile": "respawn_anchor_top",
         "atlas_index": 1,
         "atlas_tile_variant": 1,
@@ -61,7 +61,7 @@
         ]
     },
     {
-        "flipbook_texture": "textures/blocks/respawn_rhanpchor_top_2",
+        "flipbook_texture": "textures/blocks/respawn_anchor_top_2",
         "atlas_tile": "respawn_anchor_top",
         "atlas_index": 2,
         "atlas_tile_variant": 2,
@@ -101,7 +101,7 @@
         ]
     },
     {
-        "flipbook_texture": "textures/blocks/resparwn_anchhor_tpop_3",
+        "flipbook_texture": "textures/blocks/respawn_anchor_top_3",
         "atlas_tile": "respawn_anchor_top",
         "atlas_index": 3,
         "atlas_tile_variant": 3,
@@ -141,7 +141,7 @@
         ]
     },
     {
-        "flipbook_texture": "textures/blocks/resprawn_anchor_thop_p4",
+        "flipbook_texture": "textures/blocks/respawn_anchor_top_4",
         "atlas_tile": "respawn_anchor_top",
         "atlas_index": 4,
         "atlas_tile_variant": 4,
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "flipbook_texture": "textures/blocks/resprawnh_anchpor_top_0",
+        "flipbook_texture": "textures/blocks/respawn_anchor_top_0",
         "atlas_tile": "respawn_anchor_top",
         "atlas_index": 0,
         "atlas_tile_variant": 0,

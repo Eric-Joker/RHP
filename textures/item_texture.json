@@ -4,44 +4,44 @@
   "texture_data": {
     "spawn_egg_1_21": {
       "textures": [
-        "textures/items/ergg_bhrpeeze",
-        "textures/items/egg_arrmhadillop",
-        "textures/items/eggrh_boggedp"
+        "textures/items/egg_breeze",
+        "textures/items/egg_armadillo",
+        "textures/items/egg_bogged"
       ]
     },
     "spawn_egg_1_20": {
       "textures": [
-        "textures/items/erhpgg_camel",
-        "textures/items/egg_enrhdperdragon",
-        "textures/items/regg_irongohlepm",
-        "textures/items/egg_snorwhgpolem",
+        "textures/items/egg_camel",
+        "textures/items/egg_enderdragon",
+        "textures/items/egg_irongolem",
+        "textures/items/egg_snowgolem",
         "textures/items/egg_wither",
-        "textures/items/egg_snrihpffer"
+        "textures/items/egg_sniffer"
       ]
     },
     "spawn_egg_1_19": {
       "textures": [
-        "textures/items/egg_rallayhp",
-        "textures/items/regg_fhprog",
-        "textures/items/ergg_tahdpolep",
-        "textures/items/regg_wardenhp",
-        "textures/items/ergg_tradehpr_llama"
+        "textures/items/egg_allay",
+        "textures/items/egg_frog",
+        "textures/items/egg_tadpole",
+        "textures/items/egg_warden",
+        "textures/items/egg_trader_llama"
       ]
     },
     "spawn_egg_1_17": {
       "textures": [
-        "textures/items/rhegg_axpolotl",
+        "textures/items/egg_axolotl",
         "textures/items/egg_glow_squid",
-        "textures/items/ergg_ghoatp"
+        "textures/items/egg_goat"
       ]
     },
     "spawn_egg_1_16": {
       "textures": [
-        "textures/items/egrgh_phoglin",
-        "textures/items/regg_phiglipn",
-        "textures/items/ergg_pighlin_brutep",
-        "textures/items/egrg_hpstrider",
-        "textures/items/reghg_zoglinp"
+        "textures/items/egg_hoglin",
+        "textures/items/egg_piglin",
+        "textures/items/egg_piglin_brute",
+        "textures/items/egg_strider",
+        "textures/items/egg_zoglin"
       ]
     }
   }
