@@ -4,6 +4,8 @@
   "$ui_control_alpha": 0.4,   //大部分控件不透明度=（$ui_control_alpha÷$ui_alpha），关闭透明UI调为1，不建议高于0.75，需要小于$ui_alpha
   "$control_color": [255,255,255],   //关闭透明UI时务必将此项的‘255,255,255’删掉（只留下两个中括号和结尾的逗号）
 
+  "$recovery_compass_aux": 44761088, //HUD下方追溯指针的aux_id，不同的版本可能会更改导致显示成错误的物品
+
   "$enable_durable_display": true, //启用(true)或忽略(false)耐久显示（在低端机型可以提高性能）
   "$enable_sidebar": true, //启用(true)或忽略(false)计分板控件控制功能（若服务器中计分板不显示或类似情况可将此项改为false）本功能测试中
   "$default_world_settings_desc": false, //默认显示(true)或不显示(false)世界选项的介绍
