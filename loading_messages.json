@@ -1,5 +1,6 @@
 {
   "beginner_loading_messages": [
+    "onlinePlay.message",
     "beginnerTips.1",
     "beginnerTips.2",
     "beginnerTips.3",
@@ -15,6 +16,7 @@
     "beginnerTips.13"
   ],
   "mid_game_loading_messages": [
+    "onlinePlay.message",
     "beginnerTips.1",
     "beginnerTips.2",
     "beginnerTips.3",
@@ -99,6 +101,7 @@
     "beginnerTips.13"
   ],
   "late_game_loading_messages": [
+    "onlinePlay.message",
     "beginnerTips.1",
     "beginnerTips.2",
     "beginnerTips.3",
@@ -209,7 +212,35 @@
     "lategameTips.27",
     "beginnerTips.13"
   ],
+  "creative_loading_messages": [
+    "onlinePlay.message",
+    "tips.creative.1",
+    "tips.creative.2",
+    "tips.creative.3",
+    "tips.creative.4",
+    "tips.creative.5",
+    "tips.creative.6",
+    "tips.creative.7",
+    "tips.creative.8",
+    "tips.creative.9",
+    "tips.creative.10",
+    "tips.creative.11",
+    "tips.creative.12",
+    "tips.creative.13",
+    "tips.creative.14",
+    "tips.creative.15",
+    "tips.creative.16",
+    "tips.creative.17",
+    "tips.creative.18",
+    "tips.creative.19",
+    "tips.creative.20",
+    "tips.creative.21",
+    "tips.creative.22",
+    "tips.creative.23",
+    "beginnerTips.13"
+  ],
   "editor_loading_messages": [
+    "onlinePlay.message",
     "beginnerTips.1",
     "beginnerTips.2",
     "beginnerTips.3",
@@ -321,6 +352,7 @@
     "beginnerTips.13"
   ],
   "realms_loading_messages": [
+    "onlinePlay.message",
     "tips.realms.1",
     "tips.realms.2",
     "tips.realms.3",
@@ -332,6 +364,7 @@
     "beginnerTips.13"
   ],
   "addons_loading_messages": [
+    "onlinePlay.message",
     "progressScreen.message.modifiedWorldWarning.1",
     "progressScreen.message.modifiedWorldWarning.2",
     "progressScreen.message.modifiedWorldWarning.3",
@@ -341,5 +374,13 @@
     "progressScreen.message.modifiedWorldWarning.7",
     "progressScreen.message.modifiedWorldWarning.8",
     "beginnerTips.13"
+  ],
+  "store_progress_tooltips": [
+    "store.progress.dialog.tooltip.1",
+    "store.progress.dialog.tooltip.2",
+    "store.progress.dialog.tooltip.3",
+    "store.progress.dialog.tooltip.4",
+    "store.progress.dialog.tooltip.5",
+    "store.progress.dialog.tooltip.6"
   ]
 }
