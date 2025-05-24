@@ -978,7 +978,6 @@ tile.stripped_oak_log.name=去皮橡木原木
 tile.stripped_pale_oak_log.name=去皮苍白橡木原木
 tile.stripped_warped_hyphae.name=去皮诡异菌核
 tile.warped_hyphae.name=诡异菌核
-tile.warped_fungus.name=诡异菌
 tile.warped_door.name=诡异木门
 tile.warped_stairs.name=诡异木楼梯
 tile.mangrove_wood.name=红树木
@@ -988,7 +987,6 @@ tile.planks.oak.name=橡木木板
 tile.planks.spruce.name=云杉木板
 o⁰Oo⁰Oo⁰O=苍白橡木木板
 tile.planks.birch.name=白桦木板
-tile.planks.big_oak.name=深色橡木木板
 tile.planks.jungle.name=丛林木板
 tile.planks.acacia.name=金合欢木板
 oOΟ=红树木板
@@ -1027,9 +1025,6 @@ tile.bamboo_button.name=竹按钮
 tile.warped_fungus.name=诡异菌
 tile.crimson_fungus.name=绯红菌
 
-	
-tile.stone_slab.brick.name=红砖台阶
-tile.double_stone_slab.brick.name=红砖双层台阶
 
 item.netherite_upgrade_smithing_template.name=下界合金升级锻造模板
 
